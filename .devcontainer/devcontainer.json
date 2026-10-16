@@ -36,7 +36,7 @@
   },
 
   "containerEnv": {
-    "GUAC_IMAGE": "ghcr.io/guacsec/guac:v1.1.0",
+    "GUAC_IMAGE": "ghcr.io/Nikhil-cp1905/guac:v9.9.9-test",
     "GUAC_API_PORT": "8080"
   },
 
